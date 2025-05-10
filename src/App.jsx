@@ -16,7 +16,7 @@ function App() {
       open={open}
       abrir={abrir}
       cerrar={cerrar}>
-        <h2>ejemplo de un modal</h2>
+        <h2>ejemplo que pasa modal</h2>
         <h3>busca tu cancion y artista favorito</h3>
         <Select/>
       </Modal>
